@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+header a{
+    padding: 5px;
+}
+header img{
+    width: 80px;
+}
+header hr{
+    width: 20vw;
+    height: 1px;
+    background-color: darkblue;
+    text-align: center;
+    margin: 5px;
+    margin-left: 40vw;
+}
+picture img{
+    width: 40vw;
+    margin: auto;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+section#jornal {
+    background-color: darkgrey;
+    padding: 1px;
+    padding-top: 4px;
+    display: block;
+    width: 100vw;
+}
+div#noticias {
+    padding:20px;
+    width: 68vw;
+    height: 250px;
+    background-color: aqua;
+    display: block;
+}
+div#categoria {
+    padding: 20px;
+    width: 15vw;
+    height: 250px;
+    background-color: blueviolet;
+    display: block;
+    list-style-position: inside;
+    
+
+}
+div#noticias div#img{
+    background-color: aliceblue;
+    display: block;
+    width: 25vw;
+    height: 199px;
+}
+div#noticias div#txtmateria{
+    background-color: bisque;
+    display: block;
+    width: 41vw;
+}
